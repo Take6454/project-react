@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-react/static/css/main.1c65033a.chunk.css",
+    "main.js": "/project-react/static/js/main.43b8543e.chunk.js",
+    "main.js.map": "/project-react/static/js/main.43b8543e.chunk.js.map",
+    "runtime-main.js": "/project-react/static/js/runtime-main.1b5a128f.js",
+    "runtime-main.js.map": "/project-react/static/js/runtime-main.1b5a128f.js.map",
+    "static/js/2.81ff60ee.chunk.js": "/project-react/static/js/2.81ff60ee.chunk.js",
+    "static/js/2.81ff60ee.chunk.js.map": "/project-react/static/js/2.81ff60ee.chunk.js.map",
+    "index.html": "/project-react/index.html",
+    "static/css/main.1c65033a.chunk.css.map": "/project-react/static/css/main.1c65033a.chunk.css.map",
+    "static/js/2.81ff60ee.chunk.js.LICENSE.txt": "/project-react/static/js/2.81ff60ee.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/project-react/static/media/lucrezia-carnelos-LapkLC19ZGQ-unsplash.daa12be1.jpg",
+    "static/media/takeshi3.b57a779a.jpg": "/project-react/static/media/takeshi3.b57a779a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b5a128f.js",
+    "static/js/2.81ff60ee.chunk.js",
+    "static/css/main.1c65033a.chunk.css",
+    "static/js/main.43b8543e.chunk.js"
+  ]
+}
